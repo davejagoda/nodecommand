@@ -1,0 +1,27 @@
+{
+  "name": "nodecommand",
+  "version": "1.0.0",
+  "description": "use node to invoke a command",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davejagoda/nodecommand.git"
+  },
+  "keywords": [
+    "node",
+    "command",
+    "shell"
+  ],
+  "author": "dj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davejagoda/nodecommand/issues"
+  },
+  "homepage": "https://github.com/davejagoda/nodecommand#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

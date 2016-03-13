@@ -19,3 +19,7 @@
 `git commit -m 'add .gitignore'`
 
 `git push -u origin master`
+
+`npm init`
+
+`npm install express --save`
