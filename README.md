@@ -12,7 +12,9 @@
 
 `git remote add origin git@github.com:davejagoda/nodecommand.git`
 
-`printf '%s\n' '#emacs' '*~' > .gitignore`
+`heroku git:remote -a nodecommand`
+
+`printf '%s\n' '#emacs' '*~' '#node' 'nodemodules' > .gitignore`
 
 `git add .gitignore`
 
