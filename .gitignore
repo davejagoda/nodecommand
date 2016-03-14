@@ -1,4 +1,4 @@
 #emacs
 *~
 #node
-nodemodules
+node_modules/

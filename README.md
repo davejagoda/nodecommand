@@ -14,7 +14,7 @@
 
 `heroku git:remote -a nodecommand`
 
-`printf '%s\n' '#emacs' '*~' '#node' 'nodemodules' > .gitignore`
+`printf '%s\n' '#emacs' '*~' '#node' 'node_modules/' > .gitignore`
 
 `git add .gitignore`
 
